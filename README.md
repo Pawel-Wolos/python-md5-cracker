@@ -15,7 +15,7 @@ Prosty skrypt w języku Python stworzony do przeprowadzania ataków słownikowyc
 
 ## Użyte technologie
 * **Język:** Python 3.x
-* **Biblioteki standardowe:** `hashlib`
+* **Biblioteki standardowe:** `hashlib` 
 
 ---
 *Projekt stworzony w ramach budowania fundamentów pod pracę w obszarze Wsparcia IT oraz Cybersecurity.*
